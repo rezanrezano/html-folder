@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>Re:Coding Bootcamp</title>
+</head>
+<body>
+<p>In Our Program We Will Learn:</p><br>
+<UL>
+<LI>Ruby</LI>
+<LI>HTML</LI>
+<LI>CSS</LI>
+<LI>JavaScript</LI>
+<LI>SQL</LI>
+<LI>Ruls</LI>
+</UL>
+<p>We are using a course provided by<a href="Flatiron School.html"> Flatiron School</a></p><br>
+<p>We learn how to work in teams</p><br>
+<p>My team's members are:</p><br>
+<table>
+<tr>
+<th>Name</th> <th>Age</th> <th>Best Skils</th>
+</tr>
+<tr>
+<td>Rezan</td> <td>18</td> <td>??</td>
+</tr>
+<tr>
+<td>Rezan</td> <td>18</td> <td>??</td>
+</tr>
+<tr>
+<td>Rezan</td> <td>18</td> <td>??</td>
+</tr>
+</table>
+<p> My Favorite Quote in lif is</p>
+
+</body>
+
+</html>
