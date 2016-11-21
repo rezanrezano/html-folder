@@ -1,0 +1,30 @@
+p{
+  color:red;
+  font-size: 100px;
+  font-style: italic;
+}
+#my-p{
+  font-family: Arial
+}
+.big-text{
+  font-size: 46px;
+}
+p,#my-p, .big-text{
+  text-align: center;
+}
+#nav li{
+  color: red;
+  font-size: 46px;
+}
+.red-div{
+  background-color:aqua;
+}
+.red-div .red-h{
+  color:red;
+}
+.red-div>h2{
+  color: green;
+}
+.red-h1{
+  background: black;
+}

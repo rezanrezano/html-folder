@@ -1,0 +1,11 @@
+p{
+  color: red;
+
+}
+.red-p{
+  color: blue;
+}
+#my-p{
+  color: green;
+  font-size: 100px;
+}
