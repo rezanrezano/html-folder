@@ -1,0 +1,28 @@
+/*a[href^="http"]{            اي عنصر يبدأ بالكلمة المختارة
+  color: red;
+}
+*/
+/* a[href*="face"]{             اي عنصر يحوي على الكلمة التي تختارها سواء كانت في البداية او النهاية
+color:red;
+}*/
+/* a[href$="com"]{                 اي عنصر ينتهي بالكلمة المختارة
+color:red;
+}*/
+/*
+a[href$="com"]{
+color:red;
+}
+*/
+/*
+p[class~="dog"]{
+color=red;                                                 this for space
+
+}
+/*
+p[class|="dog"]{
+color=red;                                                  this for dash(-)
+}
+*/
+p[class|="dog"]{
+color: red;                                             /* مثااال*/
+}

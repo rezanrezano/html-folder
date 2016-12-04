@@ -1,0 +1,12 @@
+p:first-child{
+  color: orange;
+}
+p:last-child{
+  color: aqua;
+}
+div p:first-child{
+  color: blue;
+}
+div p:last-child{
+  color: red;
+}

@@ -1,0 +1,15 @@
+p{
+  color: red;
+  font-size: 20px;
+}
+/*@media only screen and (max-width:800px) {
+  p{color: blue;}
+}*/
+                        /*عكس بعض*/
+
+/*@media only screen and (min-width:800px) {
+  p{color: blue;}
+}*/
+@media only screen and (min-width:400px)and (max-width:800px) {
+  p{color: blue;}
+}

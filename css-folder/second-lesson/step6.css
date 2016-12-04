@@ -1,0 +1,21 @@
+a:link{
+text-decoration: none;
+font-size: 88px;
+
+}
+a:visited{
+  color: red;
+}
+a:active {
+  color: aqua;
+}
+a:hover {
+  color: pink;
+}
+.dog{
+
+}
+.dog:hover{
+color: blue;
+font-size: 46px;
+}
